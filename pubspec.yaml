@@ -1,0 +1,22 @@
+name: riverpod_form_binder
+description: Reactive form binding, debounced async field validation, and state management engine for Riverpod 2.0.
+version: 1.0.0
+homepage: https://github.com/lekthedeveloper/riverpod_form_binder
+repository: https://github.com/lekthedeveloper/riverpod_form_binder
+issue_tracker: https://github.com/lekthedeveloper/riverpod_form_binder/issues
+
+environment:
+  sdk: '>=3.0.0 <4.0.0'
+  flutter: '>=3.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  flutter_riverpod: ^2.5.1
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^5.0.0
+
+flutter:
